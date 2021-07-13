@@ -24,26 +24,6 @@
 
 为了国家安全，教官交接前学生就被告知不能拍摄教官们，然而基地工作人员并没有意识的这一点，军训时直接拍摄教官。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### 住宿条件
 
 同时，住宿条件很差，枕头，被褥上有很厚的一层灰和沙土，有人在枕头、被套上发现了蛆虫。宿舍内也不时有各种昆虫出现，例如蜈蚣，已经有同学因为被咬导致浮肿而被送往医院。基地消防安全也令学生担忧，灭火器基本都是过期或者是不能使用的。有些地方提供给学生的生活用水浑浊不堪，洗漱用水是红色且散发异味，住宿区提供的饮用热水是乳白色，让人不敢使用。基地提供的插口电流声不断，甚至部分已经出现了自燃现象，基地对此也只是简单维修了事。7.11日晚暴雨后，有宿舍漏雨，有的宿舍甚至快淹到了床板。也是因为这雨，许多昆虫害虫进入宿舍，有同学在床上发现了大只的蟑螂等。有的被咬了后整只手，整条腿的肿起。
