@@ -1,12 +1,28 @@
-## Welcome to GitHub Pages
+## 反健康 反卫生 反诚信 反监管 反生命
 
-You can use the [editor on GitHub](https://github.com/FucShenghua/antiShengHua.Github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 我们联合！揭发 反抗 打倒 北京盛华军训基地
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+北京交通大学于7月3日在北京盛华人才培训中心开展2019，2020级的军训活动。根据公示的招标文件和合同，基地应该为我们提供相应合乎标准的饮食和住宿服务，保证食品安全和住宿。可是根据同学们反应，以及我们的亲身经历，该基地根本没有达到合同中的要求，甚至连基本的食品安全和卫生都没有做到。
 
-### Markdown
+### 我们在未来会继续完善证据，包含图片，视频等。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 我们绝不是不怕吃苦！我们要求的是规范的受监管的健康卫生的军训活动！
+
+### 希望北京各中学、大学的同学们联合起来，积极反抗，战斗盛华基地整改为止！
+
+### 食品安全
+
+我们在基地提供的饮食中吃出了许多不应该出现在食品的东西，目前已经出现并且保留证据的有：香烟盒，蜈蚣，蚂蚁，苍蝇，牙签，指甲，以及最令人无法接受的注射器针头。
+
+基地提供的菜品也存在较大问题，每天的伙食费是29元，但是基地的菜品几乎只有白菜、茄子、冬瓜、土豆、西红柿、黄瓜等蔬菜中的几个，有同学曾经目击到基地方将厨余垃圾与学生当天的蔬菜堆放在一起，后因学生意见过大，基地方用一块黑布将二者分隔开。
+
+并且基地一方一开始时对于盛放学生伙食的餐具只是用水一冲后就继续使用，完全不把食品卫生当回事。甚至学生在军训期间想要多吃一个鸡蛋都被拒绝。
+
+几乎过半学生在食用基地的伙食后感到不适，有腹泻，腹痛等不适现象，在军训的中间时间段开始有同学因为严重腹泻、营养不良等原因被送往医院。
+
+7.10号武警部队教官来了后，同样吐槽盛华基地的饮食，据说教官吃早餐时人直接懵了。
+
+为了国家安全，教官交接前学生就被告知不能拍摄教官们，然而基地工作人员并没有意识的这一点，军训时直接拍摄教官。
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +44,15 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 住宿条件
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FucShenghua/antiShengHua.Github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+同时，住宿条件很差，枕头，被褥上有很厚的一层灰和沙土，有人在枕头、被套上发现了蛆虫。宿舍内也不时有各种昆虫出现，例如蜈蚣，已经有同学因为被咬导致浮肿而被送往医院。基地消防安全也令学生担忧，灭火器基本都是过期或者是不能使用的。有些地方提供给学生的生活用水浑浊不堪，洗漱用水是红色且散发异味，住宿区提供的饮用热水是乳白色，让人不敢使用。基地提供的插口电流声不断，甚至部分已经出现了自燃现象，基地对此也只是简单维修了事。7.11日晚暴雨后，有宿舍漏雨，有的宿舍甚至快淹到了床板。也是因为这雨，许多昆虫害虫进入宿舍，有同学在床上发现了大只的蟑螂等。有的被咬了后整只手，整条腿的肿起。
 
-### Support or Contact
+### 卫生问题
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+基地在疫情期间仍旧我行我素，对于同学们反应的卫生问题毫不理睬，有学生在基地的被褥、洗漱台发现死去的鸟类尸体，厕所也没有相应的卫生条件，几千人共用一个厕所且冲水设施损坏（部分同学甚至使用旱厕），极易传播疾病。基地的空调出风口也肮脏不堪，已经有同学因为空调不干净而肺部感染被送医治疗。同时有20级女生得了水痘后在医务处隔离，之后更是导致了多达60人被隔离。暴雨过后宿舍外弥漫着粪臭，地上到处是积水泥水。
+
+### 监管
+
+工商局以及食品安全监管部门来过之后，相关物价问题和食品安全问题并没有太多解决。
+
